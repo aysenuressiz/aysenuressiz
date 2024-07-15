@@ -1,4 +1,3 @@
-<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=hugo.svg&icon_color=%23FFFFFF&title=Profile+Views+Hanzelkaaragac&edge_flat=false" align="right"/></a> -->
 <br>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 <img src="https://komarev.com/ghpvc/?username=aysenuressiz&&style=plastics&&color=yellow" align="right"/> </p>
@@ -93,17 +92,12 @@
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
 
-  ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZ5d2lmYnp5OGwzZ2h5ejl4Zno2bGlnb25kdzVjNTB2bW5oNDlsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LPCbGMd9phguQ8ULbD/giphy.webp" width="25"> <b>GitHub TrophiesRandom Dev Quote</b>
+  ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZ5d2lmYnp5OGwzZ2h5ejl4Zno2bGlnb25kdzVjNTB2bW5oNDlsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LPCbGMd9phguQ8ULbD/giphy.webp" width="25"> <b>Random Dev Quote</b>
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
 
-
-
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
- 
- 
-
   
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/aysenuressiz)
 
