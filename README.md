@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" target="_blank">
   </a>
 <a href="https://codepen.io/Ayenur-Esiz" target="_blank">
-    <img src="https://img.shields.io/badge/Codepen-000000.svg?logo=Instagram&logoColor=white " target="_blank">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white " target="_blank">
   </a>
    <a href="https://pinterest.com/namutenahialaimisema" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" target="_blank">
