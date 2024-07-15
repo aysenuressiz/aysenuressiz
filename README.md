@@ -19,7 +19,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aysenuressiz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=aysenuressiz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aysenuressiz&theme=dark&hide_border=false)<br/>
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/aysenuressiz/contributions?format=svg&private=false)
 
 ## 🏆Kupalar:
 ![](https://github-profile-trophy.vercel.app/?username=aysenuressiz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
