@@ -7,7 +7,7 @@
 
 
 <div  align="center">
-<img src="beunique.png" width="400"/> 
+<img src="beunique.png" width="700"/> 
 
 
 
