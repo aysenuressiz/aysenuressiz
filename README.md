@@ -10,7 +10,7 @@
 <img src="https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/b25af03d-cc35-4abf-8a59-c122668a89cc/b0bea3c4-618d-451a-99df-9f993f414d0c.png" width="200"/> 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+to+Ayşenur+Eşsiz+Channel!;)
+![Typing SVG](beunique!.png);)
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
